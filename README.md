@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Muhammad Asadullah from Pakistan. Living in London, UK.
+- 👋 Hi, I’m Muhammad Asadullah. 
 - 👀 I’m interested in ... Building innovative solutions to solve problems and challenges
 - 🌱 I’m currently learning ... Gen AI, DevOps, and Project and Product Management best strategies for SaaS and Startups.
 - 💞️ I’m looking to collaborate on ... OpenSource projects
